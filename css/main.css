@@ -1,0 +1,21 @@
+h1 {
+  border-bottom: 2px solid black;
+  color: #f2f2f2;
+}
+
+html {
+  font-family: "Open Sans", sans-serif;
+  color: #fff;
+}
+
+.btn {
+  color: #000;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .left {
+    padding-right: 10px;
+  }
+
+}
